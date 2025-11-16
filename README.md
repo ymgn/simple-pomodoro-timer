@@ -1,4 +1,4 @@
-# Smart Pomodoro Timer
+# Simple Pomodoro Timer
 
 GitHub Pages で公開している自由な分数で繰り返し実行できるポモドーロタイマーです。
 
