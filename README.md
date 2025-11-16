@@ -2,7 +2,7 @@
 
 GitHub Pages で公開している自由な分数で繰り返し実行できるポモドーロタイマーです。
 
-https://ymgn.github.io/SmartPomodoroTimer/
+https://ymgn.github.io/simple-pomodoro-timer/
 
 ## 特徴
 
